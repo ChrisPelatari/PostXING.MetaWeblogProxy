@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PostXING.MetaBlogProvider/1.0.0": {
+        "dependencies": {
+          "CookComputing.XmlRPCv2": "2.5.0"
+        },
+        "runtime": {
+          "PostXING.MetaBlogProvider.dll": {}
+        }
+      },
+      "CookComputing.XmlRPCv2/2.5.0": {
+        "runtime": {
+          "lib/CookComputing.XmlRpcV2.dll": {
+            "assemblyVersion": "2.5.0.0",
+            "fileVersion": "2.5.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PostXING.MetaBlogProvider/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CookComputing.XmlRPCv2/2.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Hu8FvKbKqPd170uekebAI+AGofMeRS6uKAcx5dfFqMLb9HemMHwawCcRTnqtvBE2bgpnp2bdsxcYqLQerskPJw==",
+      "path": "cookcomputing.xmlrpcv2/2.5.0",
+      "hashPath": "cookcomputing.xmlrpcv2.2.5.0.nupkg.sha512"
+    }
+  }
+}

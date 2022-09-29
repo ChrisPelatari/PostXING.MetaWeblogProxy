@@ -1,0 +1,105 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "CookComputing.XmlRPCv2/2.5.0": {
+        "type": "package",
+        "compile": {
+          "lib/CookComputing.XmlRpcV2.dll": {}
+        },
+        "runtime": {
+          "lib/CookComputing.XmlRpcV2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CookComputing.XmlRPCv2/2.5.0": {
+      "sha512": "Hu8FvKbKqPd170uekebAI+AGofMeRS6uKAcx5dfFqMLb9HemMHwawCcRTnqtvBE2bgpnp2bdsxcYqLQerskPJw==",
+      "type": "package",
+      "path": "cookcomputing.xmlrpcv2/2.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "cookcomputing.xmlrpcv2.2.5.0.nupkg.sha512",
+        "cookcomputing.xmlrpcv2.nuspec",
+        "lib/CookComputing.XmlRpcV2.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "CookComputing.XmlRPCv2 >= 2.5.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Chris\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Chris\\Documents\\code\\PostXING.MetaBlogProvider\\PostXING.MetaBlogProvider.csproj",
+      "projectName": "PostXING.MetaBlogProvider",
+      "projectPath": "C:\\Users\\Chris\\Documents\\code\\PostXING.MetaBlogProvider\\PostXING.MetaBlogProvider.csproj",
+      "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Chris\\Documents\\code\\PostXING.MetaBlogProvider\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "noWarn": [
+          "NU1701"
+        ],
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "CookComputing.XmlRPCv2": {
+            "target": "Package",
+            "version": "[2.5.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
