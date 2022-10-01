@@ -1,4 +1,4 @@
-﻿// PostXING.MetaBlogProvider.mtTrackbackPing
+﻿// PostXING.MetaWeblogProxy.mtTrackbackPing
 using CookComputing.XmlRpc;
 
 public struct mtTrackbackPing {

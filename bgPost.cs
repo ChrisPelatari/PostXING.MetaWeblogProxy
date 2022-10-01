@@ -1,4 +1,4 @@
-﻿// PostXING.MetaBlogProvider.bgPost
+﻿// PostXING.MetaWeblogProxy.bgPost
 using System;
 using CookComputing.XmlRpc;
 

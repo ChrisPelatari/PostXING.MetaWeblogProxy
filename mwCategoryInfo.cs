@@ -1,4 +1,4 @@
-﻿// PostXING.MetaBlogProvider.mwCategoryInfo
+﻿// PostXING.MetaWeblogProxy.mwCategoryInfo
 using CookComputing.XmlRpc;
 
 public struct mwCategoryInfo {

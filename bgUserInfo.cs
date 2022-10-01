@@ -1,3 +1,3 @@
-﻿// PostXING.MetaBlogProvider.BloggerAPIClientProxy
+﻿// PostXING.MetaWeblogProxy.BloggerAPIClientProxy
 public class bgUserInfo {
 }

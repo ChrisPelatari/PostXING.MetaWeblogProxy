@@ -1,4 +1,4 @@
-﻿// PostXING.MetaBlogProvider.BlogRequest
+﻿// PostXING.MetaWeblogProxy.BlogRequest
 using CookComputing.XmlRpc;
 
 public class BlogRequest : XmlRpcClientProtocol {

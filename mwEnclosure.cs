@@ -1,4 +1,4 @@
-﻿// PostXING.MetaBlogProvider.mwEnclosure
+﻿// PostXING.MetaWeblogProxy.mwEnclosure
 using CookComputing.XmlRpc;
 
 [XmlRpcMissingMapping(MappingAction.Ignore)]

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PostXING.MetaBlogProvider
+namespace PostXING.MetaWeblogProxy
 {
     public class Class1
     {

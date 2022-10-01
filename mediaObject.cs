@@ -1,4 +1,4 @@
-﻿// PostXING.MetaBlogProvider.mediaObject
+﻿// PostXING.MetaWeblogProxy.mediaObject
 public struct mediaObject {
 	public string name;
 

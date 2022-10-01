@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <NoWarn>NU1701</NoWarn>
+    <Authors>@ChrisPelatari</Authors>
+    <Company>Blue Fenix Productions</Company>
+    <Description>A C# proxy to call a MetaWeblog API endpoint.</Description>
+    <Copyright>Blue Fenix Productions</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CookComputing.XmlRPCv2" Version="2.5.0" />
+  </ItemGroup>
+
+</Project>

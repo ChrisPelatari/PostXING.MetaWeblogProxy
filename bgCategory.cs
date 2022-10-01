@@ -1,4 +1,4 @@
-﻿// PostXING.MetaBlogProvider.bgCategory
+﻿// PostXING.MetaWeblogProxy.bgCategory
 public struct bgCategory {
 	public string categoryid;
 

@@ -1,4 +1,4 @@
-﻿// PostXING.MetaBlogProvider.mtTextFilter
+﻿// PostXING.MetaWeblogProxy.mtTextFilter
 using CookComputing.XmlRpc;
 
 public struct mtTextFilter {

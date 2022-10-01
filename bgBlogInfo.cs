@@ -1,4 +1,4 @@
-﻿// PostXING.MetaBlogProvider.bgBlogInfo
+﻿// PostXING.MetaWeblogProxy.bgBlogInfo
 public struct bgBlogInfo {
 	public string blogid;
 

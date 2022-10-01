@@ -1,4 +1,4 @@
-﻿// PostXING.MetaBlogProvider.mtPostTitle
+﻿// PostXING.MetaWeblogProxy.mtPostTitle
 using System;
 using CookComputing.XmlRpc;
 

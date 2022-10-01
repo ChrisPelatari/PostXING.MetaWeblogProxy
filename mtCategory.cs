@@ -1,4 +1,4 @@
-﻿// PostXING.MetaBlogProvider.mwCategory
+﻿// PostXING.MetaWeblogProxy.mwCategory
 public struct mtCategory {
 	public string categoryId;
 

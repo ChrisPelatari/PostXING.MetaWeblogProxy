@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ab6Z+GFxa8trMEwTqYMe6WLepRm7nBHESWZgCRubsPgQ5ACaIfMGNUSlVFA1hWF4lvRmMr+IZKUkfcCDOGCzUw==",
+  "dgSpecHash": "e5lqvF9cEvvNKtVieEcw33DpIv+ExFv0Pv2f0b9Y9OE3EZpiHj2UoOn1xIL1YuPDmFFwWmeE7hst8nZ/+rSujQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Chris\\Documents\\code\\PostXING.MetaBlogProvider\\PostXING.MetaBlogProvider.csproj",
+  "projectFilePath": "C:\\Users\\Chris\\Documents\\code\\PostXING.MetaBlogProvider\\PostXING.MetaWeblogProxy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Chris\\.nuget\\packages\\cookcomputing.xmlrpcv2\\2.5.0\\cookcomputing.xmlrpcv2.2.5.0.nupkg.sha512"
   ],

@@ -1,4 +1,4 @@
-﻿// PostXING.MetaBlogProvider.BloggerAPIClientProxy
+﻿// PostXING.MetaWeblogProxy.BloggerAPIClientProxy
 using System;
 using CookComputing.XmlRpc;
 
