@@ -1,0 +1,12 @@
+C:\Users\Chris\Documents\code\PostXING.MetaBlogProvider\bin\Debug\net5.0\PostXING.MetaWeblogProxy.deps.json
+C:\Users\Chris\Documents\code\PostXING.MetaBlogProvider\bin\Debug\net5.0\PostXING.MetaWeblogProxy.dll
+C:\Users\Chris\Documents\code\PostXING.MetaBlogProvider\bin\Debug\net5.0\ref\PostXING.MetaWeblogProxy.dll
+C:\Users\Chris\Documents\code\PostXING.MetaBlogProvider\bin\Debug\net5.0\PostXING.MetaWeblogProxy.pdb
+C:\Users\Chris\Documents\code\PostXING.MetaBlogProvider\obj\Debug\net5.0\PostXING.MetaWeblogProxy.csproj.AssemblyReference.cache
+C:\Users\Chris\Documents\code\PostXING.MetaBlogProvider\obj\Debug\net5.0\PostXING.MetaWeblogProxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Documents\code\PostXING.MetaBlogProvider\obj\Debug\net5.0\PostXING.MetaWeblogProxy.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\code\PostXING.MetaBlogProvider\obj\Debug\net5.0\PostXING.MetaWeblogProxy.AssemblyInfo.cs
+C:\Users\Chris\Documents\code\PostXING.MetaBlogProvider\obj\Debug\net5.0\PostXING.MetaWeblogProxy.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\code\PostXING.MetaBlogProvider\obj\Debug\net5.0\PostXING.MetaWeblogProxy.dll
+C:\Users\Chris\Documents\code\PostXING.MetaBlogProvider\obj\Debug\net5.0\ref\PostXING.MetaWeblogProxy.dll
+C:\Users\Chris\Documents\code\PostXING.MetaBlogProvider\obj\Debug\net5.0\PostXING.MetaWeblogProxy.pdb

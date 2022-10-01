@@ -7,6 +7,8 @@
     <Company>Blue Fenix Productions</Company>
     <Description>A C# proxy to call a MetaWeblog API endpoint.</Description>
     <Copyright>Blue Fenix Productions</Copyright>
+    <PackageProjectUrl>https://github.com/ChrisPelatari/PostXING.MetaWeblogProxy</PackageProjectUrl>
+    <AssemblyVersion>4.2.1001.3</AssemblyVersion>
   </PropertyGroup>
 
   <ItemGroup>
