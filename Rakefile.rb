@@ -33,11 +33,11 @@ task :version do
   match = f.match pattern
   version = match != nil ? Versionomy.parse(match[0]) : Versionomy.parse("1.#{y}.0.0")
   day = version.tiny  
-  puts "day is #{day}"
+  #puts "day is #{day}"
 
   if day == "#{t.month}#{d}".to_i then
     hotfix = version.tiny2
-    puts "incrementing hotfix...original version is #{hotfix}"
+    puts "\r\nincrementing hotfix...original version is #{hotfix}"
     hotfix += 1
   end
   
