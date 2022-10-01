@@ -1,2 +1,2 @@
 # PostXING.MetaWeblogProxy
- A C# implementation of the MetaWeblog API using xmlrpc
+A C# proxy to call a MetaWeblog API endpoint.
